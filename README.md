@@ -1,13 +1,9 @@
-### INSTALL SCRIPT 
+### 🔰 INSTALATION SCRIPT TUNNEL 🔰
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Satria5560/premium/main/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt update -y && apt upgrade -y && apt install wget curl -y && apt install sudo -y && wget -q https://raw.githubusercontent.com/Satria5560/v3/main/setup-deb10-ub20.sh && chmod +x setup-deb10-ub20.sh && ./setup-deb10-ub20.sh
 ```
-
-## UPDATE SCRIPT
+### 🔰 UPDATE SCRIPT TUNNEL 🔰
 ```
-wget -q https://raw.githubusercontent.com/Satria5560/premium/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/Satria5560/v3/main/update.sh && chmod +x update.sh && ./update.sh
 ```
-
-### WORK DI OS
-- UBUNTU 20.04.05
-- DEBIAN 10 ( Disarankan )
+### ⚠️ SATRIA TUNNELING (OWNER) ⚠️
